@@ -1,0 +1,504 @@
+{
+  "tournament_name": "SWE Tournament",
+  "tournament_started": true,
+  "config": {
+    "type": "Round Robin",
+    "game": "Efootball",
+    "max_teams": 8
+  },
+  "teams": [
+    {
+      "id": "e62e23f9",
+      "name": "Nexus Void",
+      "tag": "NXV",
+      "region": "EU",
+      "coach": "Coach Titan",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "dd91aad1",
+          "username": "Phantom",
+          "role": "Rifler",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "38495701",
+          "username": "NightShade",
+          "role": "AWPer",
+          "age": 24,
+          "team_id": ""
+        },
+        {
+          "id": "d1cf226b",
+          "username": "Blitz",
+          "role": "Entry",
+          "age": 20,
+          "team_id": ""
+        },
+        {
+          "id": "8c498b73",
+          "username": "Sage",
+          "role": "Support",
+          "age": 23,
+          "team_id": ""
+        },
+        {
+          "id": "da34a484",
+          "username": "Vortex",
+          "role": "IGL",
+          "age": 25,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "17126208",
+      "name": "Iron Ghost",
+      "tag": "IRON",
+      "region": "NA",
+      "coach": "Coach Steel",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "16d7e358",
+          "username": "Specter",
+          "role": "IGL",
+          "age": 26,
+          "team_id": ""
+        },
+        {
+          "id": "b7e18df5",
+          "username": "Havoc",
+          "role": "Rifler",
+          "age": 21,
+          "team_id": ""
+        },
+        {
+          "id": "879dd9b0",
+          "username": "Frost",
+          "role": "AWPer",
+          "age": 23,
+          "team_id": ""
+        },
+        {
+          "id": "2fbff821",
+          "username": "Echo",
+          "role": "Support",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "816e9eba",
+          "username": "Rush",
+          "role": "Entry",
+          "age": 20,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "2fffe3ad",
+      "name": "Solar Flare",
+      "tag": "SLR",
+      "region": "APAC",
+      "coach": "Coach Ray",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "1b67d063",
+          "username": "Blaze",
+          "role": "Entry",
+          "age": 19,
+          "team_id": ""
+        },
+        {
+          "id": "c9a5918a",
+          "username": "Nova",
+          "role": "AWPer",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "c81cbe76",
+          "username": "Pulse",
+          "role": "Rifler",
+          "age": 21,
+          "team_id": ""
+        },
+        {
+          "id": "81cd69fa",
+          "username": "Zen",
+          "role": "IGL",
+          "age": 27,
+          "team_id": ""
+        },
+        {
+          "id": "94530313",
+          "username": "Arc",
+          "role": "Support",
+          "age": 20,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "51875abd",
+      "name": "Dark Horizon",
+      "tag": "DH",
+      "region": "EU",
+      "coach": "Coach Shadow",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "f46246f6",
+          "username": "Reaper",
+          "role": "AWPer",
+          "age": 24,
+          "team_id": ""
+        },
+        {
+          "id": "f3afdd8f",
+          "username": "Storm",
+          "role": "Rifler",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "cd006517",
+          "username": "Cipher",
+          "role": "IGL",
+          "age": 25,
+          "team_id": ""
+        },
+        {
+          "id": "bd79bf5f",
+          "username": "Dusk",
+          "role": "Entry",
+          "age": 21,
+          "team_id": ""
+        },
+        {
+          "id": "9e3bc27f",
+          "username": "Raven",
+          "role": "Support",
+          "age": 23,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "b7c6a9f8",
+      "name": "Crystal Edge",
+      "tag": "CRYS",
+      "region": "CIS",
+      "coach": "Coach Ice",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "aa713315",
+          "username": "Prism",
+          "role": "Rifler",
+          "age": 20,
+          "team_id": ""
+        },
+        {
+          "id": "02fbc13a",
+          "username": "Shard",
+          "role": "AWPer",
+          "age": 23,
+          "team_id": ""
+        },
+        {
+          "id": "dcc87a4f",
+          "username": "Glint",
+          "role": "Entry",
+          "age": 19,
+          "team_id": ""
+        },
+        {
+          "id": "ff5eb016",
+          "username": "Frost",
+          "role": "IGL",
+          "age": 26,
+          "team_id": ""
+        },
+        {
+          "id": "8e1a759e",
+          "username": "Clear",
+          "role": "Support",
+          "age": 22,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "2be36c52",
+      "name": "Omega Rising",
+      "tag": "OMEGA",
+      "region": "NA",
+      "coach": "Coach Peak",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "f1987888",
+          "username": "Apex",
+          "role": "IGL",
+          "age": 28,
+          "team_id": ""
+        },
+        {
+          "id": "ff4e3f61",
+          "username": "Bolt",
+          "role": "AWPer",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "aa0578aa",
+          "username": "Strike",
+          "role": "Rifler",
+          "age": 21,
+          "team_id": ""
+        },
+        {
+          "id": "41895aab",
+          "username": "Guard",
+          "role": "Support",
+          "age": 24,
+          "team_id": ""
+        },
+        {
+          "id": "86bd7b79",
+          "username": "Fury",
+          "role": "Entry",
+          "age": 20,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "3fd315ad",
+      "name": "Phoenix Core",
+      "tag": "PHX",
+      "region": "SA",
+      "coach": "Coach Flame",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "07d4f783",
+          "username": "Ash",
+          "role": "Entry",
+          "age": 21,
+          "team_id": ""
+        },
+        {
+          "id": "7a02f6fa",
+          "username": "Ember",
+          "role": "AWPer",
+          "age": 23,
+          "team_id": ""
+        },
+        {
+          "id": "4d25324a",
+          "username": "Flare",
+          "role": "Rifler",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "eaa8a894",
+          "username": "Ignite",
+          "role": "IGL",
+          "age": 25,
+          "team_id": ""
+        },
+        {
+          "id": "abe0ba5f",
+          "username": "Spark",
+          "role": "Support",
+          "age": 20,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    },
+    {
+      "id": "b820f006",
+      "name": "Shadow Wolves",
+      "tag": "SWLV",
+      "region": "EU",
+      "coach": "Coach Fang",
+      "founded_year": 2023,
+      "players": [
+        {
+          "id": "0759b530",
+          "username": "Alpha",
+          "role": "IGL",
+          "age": 27,
+          "team_id": ""
+        },
+        {
+          "id": "23b59c14",
+          "username": "Howl",
+          "role": "AWPer",
+          "age": 22,
+          "team_id": ""
+        },
+        {
+          "id": "957d8af7",
+          "username": "Prowl",
+          "role": "Rifler",
+          "age": 21,
+          "team_id": ""
+        },
+        {
+          "id": "2b548b63",
+          "username": "Claw",
+          "role": "Entry",
+          "age": 19,
+          "team_id": ""
+        },
+        {
+          "id": "bfb9766a",
+          "username": "Pack",
+          "role": "Support",
+          "age": 24,
+          "team_id": ""
+        }
+      ],
+      "elo": 1000.0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "id": "f2688bf0",
+      "team1_id": "e62e23f9",
+      "team2_id": "17126208",
+      "game": "CS2",
+      "score1": 2,
+      "score2": 1,
+      "status": "completed",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 1,
+      "bracket_position": 0
+    },
+    {
+      "id": "7cb8cd1e",
+      "team1_id": "2fffe3ad",
+      "team2_id": "51875abd",
+      "game": "CS2",
+      "score1": 0,
+      "score2": 2,
+      "status": "completed",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 1,
+      "bracket_position": 1
+    },
+    {
+      "id": "161b6bd0",
+      "team1_id": "b7c6a9f8",
+      "team2_id": "2be36c52",
+      "game": "CS2",
+      "score1": 2,
+      "score2": 0,
+      "status": "completed",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 1,
+      "bracket_position": 2
+    },
+    {
+      "id": "6d437acf",
+      "team1_id": "3fd315ad",
+      "team2_id": "b820f006",
+      "game": "CS2",
+      "score1": 1,
+      "score2": 1,
+      "status": "live",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 1,
+      "bracket_position": 3
+    },
+    {
+      "id": "7ae723eb",
+      "team1_id": "",
+      "team2_id": "",
+      "game": "CS2",
+      "score1": 0,
+      "score2": 0,
+      "status": "scheduled",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 2,
+      "bracket_position": 0
+    },
+    {
+      "id": "80fd7efb",
+      "team1_id": "",
+      "team2_id": "",
+      "game": "CS2",
+      "score1": 0,
+      "score2": 0,
+      "status": "scheduled",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 2,
+      "bracket_position": 1
+    },
+    {
+      "id": "c7ebadc1",
+      "team1_id": "",
+      "team2_id": "",
+      "game": "CS2",
+      "score1": 0,
+      "score2": 0,
+      "status": "scheduled",
+      "result": "pending",
+      "scheduled_time": "2026-06-23 02:15",
+      "round_number": 3,
+      "bracket_position": 0
+    }
+  ]
+}
