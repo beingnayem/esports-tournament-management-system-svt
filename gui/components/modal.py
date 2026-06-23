@@ -18,6 +18,7 @@ class Modal(ctk.CTkToplevel):
         self.configure(fg_color=tm.c("BG_ELEVATED"))
 
         self.transient(parent)
+        self.update_idletasks()
         self.grab_set()
         self.update_idletasks()
         px = parent.winfo_x() + (parent.winfo_width() - width) // 2
